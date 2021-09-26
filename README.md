@@ -8,6 +8,6 @@ There are 6 HWs in total, including a Midterm HW and a Final HW (to replace the 
 Each homeworks consists of 2 parts: conceptual and coding. The first part is answered in the .pdf file, and the second part is written in Python, along with the testing programs provided by the instructors.
 
 ## HW1
-HW1 focus on the idea and implementation of back-propagation.
+HW1 focus on the idea and implementation of back propagation, the basis algorithm of neural network.
 
 ## HW2
