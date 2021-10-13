@@ -11,3 +11,7 @@ Each homeworks consists of 2 parts: conceptual and coding. The first part is ans
 HW1 focus on the idea and implementation of back propagation, the basis algorithm of neural network.
 
 ## HW2
+HW2 focus on the theory of curse of dimensionality, demonstrating its mathematical meaning through a series of proof questions.
+
+## HW3
+...
